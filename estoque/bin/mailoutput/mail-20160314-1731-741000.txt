@@ -1,0 +1,16 @@
+To: willian_carlos_@hotmail.com
+Subject: Contato feito pelo site
+From: you@localhost
+Date: Mon, 14 Mar 2016 17:31:14 +0000
+Message-ID: <a2dac3101b684a4a86d918f3b6f7bbba@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Contato feito pelo site: <br>
+				Nome: {data['nome']}<br>
+				Email: {data['email']}<br>
+				Mensagem: {data['msg']}
+		
+
+
